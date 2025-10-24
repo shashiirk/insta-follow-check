@@ -5,7 +5,7 @@
   "author": "Shashikanth Reddy Kolan <kolanshashii@gmail.com>",
   "main": "index.js",
   "bin": {
-    "insta-follow-check": "./index.js"
+    "insta-follow-check": "index.js"
   },
   "type": "module",
   "keywords": [
