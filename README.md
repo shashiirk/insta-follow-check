@@ -8,8 +8,6 @@ A clean, dependency-light Node.js CLI tool that analyzes your **Instagram data e
 
 It works directly with Instagram’s **JSON export files**, supports multiple `followers_*.json` and `following_*.json` files, and outputs clean, structured results right in your terminal — no API calls, no login.
 
----
-
 ## Installation
 
 ### Using npm (recommended)
@@ -19,8 +17,6 @@ It works directly with Instagram’s **JSON export files**, supports multiple `f
 ### Using npx (no installation needed)
 
     npx insta-follow-check -d ./instagram-data
-
----
 
 ## Usage
 
@@ -38,8 +34,6 @@ This folder typically contains files like:
 Run the CLI by pointing it to that folder:
 
     insta-follow-check -d ./path/to/instagram-data/connections/followers_and_following
-
----
 
 ## Example Output
 
@@ -70,8 +64,6 @@ Run the CLI by pointing it to that folder:
     userB
     ...
 
----
-
 ## Features
 
 - Works with Instagram’s **real export structure** (`connections/followers_and_following/*.json`)
@@ -79,8 +71,6 @@ Run the CLI by pointing it to that folder:
 - No external APIs or authentication required
 - Minimal, readable terminal output
 - Built with Node.js and `commander`
-
----
 
 ## CLI Options
 
@@ -92,13 +82,9 @@ Example:
 
     insta-follow-check -d ~/Downloads/instagram-data/connections/followers_and_following
 
----
-
 ## License
 
 [MIT](./LICENSE)
-
----
 
 ## Links
 
