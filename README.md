@@ -90,3 +90,7 @@ Example:
 
 - **NPM:** [https://www.npmjs.com/package/insta-follow-check](https://www.npmjs.com/package/insta-follow-check)
 - **GitHub:** [https://github.com/shashiirk/insta-follow-check](https://github.com/shashiirk/insta-follow-check)
+
+## Support
+
+If you find this useful, consider starring the repo on GitHub.
