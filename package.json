@@ -8,6 +8,14 @@
     "insta-follow-check": "./index.js"
   },
   "type": "module",
+  "keywords": [
+    "instagram",
+    "cli",
+    "followers",
+    "social",
+    "tool"
+  ],
+  "license": "MIT",
   "dependencies": {
     "commander": "^12.0.0"
   }
